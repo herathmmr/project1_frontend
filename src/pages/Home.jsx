@@ -15,7 +15,7 @@ export default function Home(){
 
   return (
     <div className="space-y-16">
-      {/* Hero Section */}
+      {/* Hero Section     svsvsvssvsv */}
       <div className="relative bg-gradient-to-r from-blue-600 to-blue-800 text-white py-20">
         <div className="container mx-auto px-6 relative z-10">
           <div className="max-w-3xl mx-auto text-center">
